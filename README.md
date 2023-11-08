@@ -1,5 +1,4 @@
 # EX-3-SubQueries-Views-and-Joins
-## Date: 18/8/23
 ## Aim
 To create views and joins in SQL
 
